@@ -1,0 +1,7 @@
+application:
+  name: StackandQueue
+  package: Datastructure.StackandQueue
+spring:
+  application:
+    name: ${application.name}
+
